@@ -12,7 +12,7 @@ A Bash script to analyze basic server performance statistics.
 - Top 5 memory consuming processes
 
   ## Project URL
-https://github.com/Marcellinevololonirina/devops
+Project URL: https://github.com/Marcellinevololonirina/devops
 
 ## How to run
 
