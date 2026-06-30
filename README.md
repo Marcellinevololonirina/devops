@@ -11,8 +11,8 @@ A Bash script to analyze basic server performance statistics.
 - Top 5 CPU consuming processes
 - Top 5 memory consuming processes
 
-  ## Project URL
-Project URL: https://github.com/Marcellinevololonirina/devops
+## Project Page URL
+Project Page URL: https://github.com/Marcellinevololonirina/devops
 
 ## How to run
 
