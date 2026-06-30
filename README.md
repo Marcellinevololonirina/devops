@@ -11,6 +11,9 @@ A Bash script to analyze basic server performance statistics.
 - Top 5 CPU consuming processes
 - Top 5 memory consuming processes
 
+  ## Project URL
+https://github.com/Marcellinevololonirina/devops
+
 ## How to run
 
 Make the script executable:
@@ -18,4 +21,3 @@ Make the script executable:
 ```bash
 chmod +x server-stats.sh
 
-https://github.com/Marcellinevololonirina/devops
