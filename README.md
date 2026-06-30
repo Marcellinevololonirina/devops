@@ -17,3 +17,5 @@ Make the script executable:
 
 ```bash
 chmod +x server-stats.sh
+
+https://github.com/Marcellinevololonirina/devops
